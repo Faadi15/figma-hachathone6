@@ -1,5 +1,5 @@
 import Image from "next/image";
-// import Bedroom from "../public/bedroom.png"
+import Bedroom from "../public/bedroom.png"
 export default function Products(){
 
     interface Card{
@@ -22,49 +22,49 @@ export default function Products(){
           name: 'Jane Smith',
           price: "Rp 2.500.000",
           age: 25,
-          image: "/images.png",
+          image: '/Hero.png',
           description: 'A creative designer who loves creating stunning visuals.',
         },
         {
           name: 'Sam Wilson',
           price: "Rp 2.500.000",
           age: 28,
-          image: 'https://via.placeholder.com/100',
+          image: '/Hero.png',
           description: 'A software engineer specializing in backend systems.',
         },
         {
           name: 'Sam Wilson',
           price: "Rp 2.500.000",
           age: 28,
-          image: 'https://via.placeholder.com/100',
+          image: '/Hero.png',
           description: 'A software engineer specializing in backend systems.',
         },
         {
           name: 'Sam Wilson',
           price: "Rp 2.500.000",
           age: 28,
-          image: 'https://via.placeholder.com/100',
+          image: '/Hero.png',
           description: 'A software engineer specializing in backend systems.',
         },
         {
           name: 'Sam Wilson',
           price: "Rp 2.500.000",
           age: 28,
-          image: 'https://via.placeholder.com/100',
+          image: '/Hero.png',
           description: 'A software engineer specializing in backend systems.',
         },
         {
           name: 'Sam Wilson',
           price: "Rp 2.500.000",
           age: 28,
-          image: 'https://via.placeholder.com/100',
+          image: '/Hero.png',
           description: 'A software engineer specializing in backend systems.',
         },
         {
           name: 'Sam Wilson',
           price: "Rp 2.500.000",
           age: 28,
-          image: 'https://via.placeholder.com/100',
+          image: '/Hero.png',
           description: 'A software engineer specializing in backend systems.',
         },
       ];
